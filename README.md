@@ -23,7 +23,7 @@ I recently completed a project titled:
 - **Languages**: Python, C++, SQL  
 - **Libraries & Frameworks**: PyTorch, TensorFlow, OpenCV, Scikit-learn, FastAPI  
 - **AI/ML**: Diffusion Models, CNNs, GANs, Transformers,, NLP  
-- **MLOps & Tools**: Git, GitHub, Docker, HPC (BlueBEAR), Jupyter, LangChain
+- **MLOps & Tools**: Git, GitHub, Docker, HPC (BlueBEAR), Jupyter
 
 ---
 
@@ -41,8 +41,8 @@ https://www.linkedin.com/posts/alanvarghesevinu_rta-innovation-transportation-ac
 
 
 ## 🌱 Currently Exploring
-- Large Language Models (LLMs) & RAG
-- Computer Vision: Segmentation & Object Detection
+- LangChain / LangGraph
+- VectorDatabase and RAG
 - End-to-end AI agent architectures
 - GitHub Projects & Portfolio Building
 
